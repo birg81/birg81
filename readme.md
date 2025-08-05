@@ -37,9 +37,9 @@ Whether you’re a student, colleague, or curious developer, you’ll find somet
 
 ## 🤝 Want to contribute?
 
-Found something useful? Share it!
-Found a bug? Open an issue or send a PR (please avoid commit messages like “final final V2 definitive”).
-Wanna chat code and Napoli? Catch me on [birg81@gmail.com](mailto:birg81@gmail.com).
+* Found something useful? Share it!
+* Found a bug? Open an issue or send a PR (please avoid commit messages like “final final V2 definitive”).
+* Wanna chat code and Napoli? Catch me on [birg81@gmail.com](mailto:birg81@gmail.com).
 
 ---
 
@@ -91,9 +91,9 @@ Se sei uno studente, un collega, o un curioso sviluppatore, troverai sicuramente
 
 ## 🤝 Contribuisci!
 
-Hai trovato qualcosa di utile? Condividilo!
-Hai trovato un bug? Apri una issue o manda una PR (possibilmente senza commit dal titolo "finale definitivo finale").
-Vuoi solo parlare di programmazione e del Napoli? Ci troviamo su [birg81@gmail.com](mailto:birg81@gmail.com).
+* Hai trovato qualcosa di utile? Condividilo!
+* Hai trovato un bug? Apri una issue o manda una PR (possibilmente senza commit dal titolo "finale definitivo finale").
+* Vuoi solo parlare di programmazione e del Napoli? Ci troviamo su [birg81@gmail.com](mailto:birg81@gmail.com).
 
 ---
 
